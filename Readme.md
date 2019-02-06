@@ -13,7 +13,7 @@ Smith, 2<br/>
 Brown, 1<br/>
 Clive, 1<br/>
 
-2. Alphabetically sorted addresses
+2. Alphabetically sorted addresses<br/>
 65 Ambling Way<br/>
 102 Long Lane<br/>
 82 Stewart St<br/>
